@@ -837,6 +837,9 @@ ul#nav li a:hover {
 /* Awards/Recognition Section
 /* ------------------------------------------------------------------ */
 
+#achieve{
+  text-align: center;
+}
 .award-list ul li {
   margin-bottom: 30px;
   display: block;
