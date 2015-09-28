@@ -1229,6 +1229,10 @@ ul#nav li a:hover {
   width: 90%;
   margin: 0 auto;
 }
+.five{
+    text-align: center;
+    padding: 0;
+}
 #contact form { margin-bottom: 30px; }
 #contact label {
    font: 15px/24px 'Open Sans', sans-serif;
