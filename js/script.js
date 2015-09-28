@@ -28,6 +28,9 @@
       cursorwidth: "8", // Sety cursor width
       cursorborder: "" // Set cursor border color, default left none
     });
+    $("html").mouseover(function() {
+      $("html").getNiceScroll().resize();
+    });
 
 
 /*----------------------------------------------------*/
